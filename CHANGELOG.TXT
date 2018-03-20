@@ -1,0 +1,70 @@
+﻿2018 changes (2018-03-09):
+
+* The slightly darker Charis SIL font (derived from Bitstream Charter)
+  looks better for non-italic text on the screen, especially on low 
+  resolution displays.
+
+* Using a low-resolution display, Charis SIL looks good hinted 
+  with TTF autohint version 1.8.1.  Note that there’s an issue with
+  the dots in the "i" and "j" being too high, to fix this, and to only
+  hint on 75dpi displays, I invoke ttfautohint 1.8.1 thusly:
+
+ttfautohint -l 8 -r 24 -G 24 -x 14 -D latn -f none -a qss \
+	--detailed-info --increase-x-height=0 \
+	--x-height-snapping-exceptions='-' Caulixtla008.ttf
+
+  I then went in to Fontforge and removed all hinting from "i" and "j"
+
+* WTerm updated to have ♣♥♦♠ card symbols.
+
+* Brought back the small caps sans semibold and serif bold font from the
+  2014 version of this font; my resume simply looks better with more fonts
+  to choose from and for that one page, looking good is more important 
+  than minimum page load time.
+
+2017 Changes (2017-11-05):
+
+* Added right arrow glyph (From Source Sans Pro; modifed in Fontforge)
+
+* We now use TTF Autohint 1.1 for the (semi) bold font, because there
+  are issues with rendering the font in a PDF on my Stepfather's cheap 
+  HP printer.  Hopefully this will resolve that.
+
+* Now that IE8 is a historical footnote and has been obsolete for well 
+  over three years, this will be the last version of this font pack with 
+  EOT fonts.
+
+Changes from 2014 webfont:
+
+* Sans non-bold, serif bold, and sans bold small caps removed; I can do
+  my designs without them
+
+* Infinity symbol from Source Serif Pro added to serif version of these
+  fonts (Since no OSS version of Bitstream Charter has the infinity; Source
+  Serif Pro uses OFL 1.1 so I don’t need to add another license document)
+
+* Instead of the serif being called “Chrotle” and the sans called
+  “UserAlt”, all fonts are now called “Caulixtla###” where ###
+  is the revision number. Emphasis should be done with italics, not bold,
+  and this makes it easier to add sans serif section headings in to
+  Word/TextMaker documents, especially when copy pasting documents from
+  other sources.
+
+* Subsetting is now consistent across fonts: The contain all of
+  ASCII, smart quotes, bullet, emdash, the copyright symbol, the
+  infinity symbol, Spanish punctuation, and Spanish language accents:
+  ÁÉÍÑÓÚÜ¡•«»—áéíñóúü¿‘’“”©∞
+
+* Hinting update: The fonts have been hinted with ttfautohint 1.5
+  (the last version used ttfautohint 1.1) and the serif fonts now have
+  a maximum PPEM of 64 instead of ttfautohint’s default of 200 (since
+  laser printing hinted versions of Charter/Serif resulted in the “t”s
+  looking like as though they were floating above the baseline)
+
+Caulixtla001: Initial attempt to update subsetting
+Caulixtla002: Added missing glyphs in bold sans font
+Caulixtla003: Attempt #1 to improve hinting (looked worse)
+Caulixtla004: Attempt #2 to improve hinting (also looked worse)
+Caulixtla005: Figured out how to fix laser printer hinting problems
+Caulixtla006: Used older version of Fontforge w/o underline location bug
+Caulixtla007: Re-hinted with full flags in font files
