@@ -47,7 +47,7 @@ Caulixtla008: Charis SIL roman (Bitstram Charter variant; serif)
 Caulixtla008-Bold: Source Sans Pro variant (Alt forms for "g" and "l"; sans)
 Caulixtla008-Italic: Bitstream Charter Italic
 Chortle2014f-Bold: Bitstream Charter bold [1]
-m7x14: Windows conversion of X11 "misc fixed" font at 7x14 size
+m7x14: Windows conversion of public domain X11 "misc-fixed" font at 7x14 size
 UserSmallCaps: Source Sans Pro, small caps (used only on my resume)
 WTerm: Older version of Cousine/Liberation Mono with delta hinting
 ```
@@ -63,9 +63,4 @@ WTerm: Older version of Cousine/Liberation Mono with delta hinting
 Subsetting: The three Caulixtla008 fonts are subsetted with ASCII and a 
 small subset of Unicode for writing documents in the English and Spanish
 languages.  000XASCII.png shows the subsetting.
-
---
-
-m7x14.fon is a Windows port of the 7x14 size of the misc-fixed font.  
-Both the original font and this port are public domain.
 

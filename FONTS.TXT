@@ -1,6 +1,7 @@
-There are four font families here:
+There are pieces of six font families here:
 
-* Matthew Carter's Bitstream Charter (the serif fonts in Caulixtla)
+* Matthew Carter's Bitstream Charter and its derivative Charis SIL
+  (the serif fonts in Caulixtla)
 
 * Paul Hunt's Source Sans Pro (The sans serif bold font in Caulixtla)
 
@@ -8,13 +9,13 @@ There are four font families here:
 
 * The infinity symbol in the serif fonts comes from Source Serif Pro
 
-* The right arrow in the sans font comes from Source Sans Pro
-  (it has been modified in Fontforge)
-
 * The card symbols in the monospace font and the right arrow in the 
-  non-italic serif font both comes from DejaVu; since there are glyphs which
+  non-italic serif fonts both come from DejaVu; since these are glyphs which
   are not part of Bitstream Vera nor Arev, the symbols are public 
-  domain.
+  domain
+
+* The font m7x14.fon comes from the public domain "misc-fixed" font set
+  included with X11
 
 The fonts are open source fonts and are used in compliance with their
 licenses.  Read below for legal details.
