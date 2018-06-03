@@ -36,7 +36,7 @@ The files are in multiple formats:
 * The Fontforge .sfd source files (the older 2014 fonts do not have
   Fontforge source files)
 
-To see how to use the files, look at [sample.html](sample.html).
+To see how to use the files, look at [https://samboy.github.io/CaulixtlaFonts/sample.html](sample.html).
 
 --
 
