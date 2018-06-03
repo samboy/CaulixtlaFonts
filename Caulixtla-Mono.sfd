@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1479708639
-ModificationTime: 1527984128
+ModificationTime: 1527984716
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3918,18 +3918,17 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "" "" "0.0.1; ttfautohint (v1.7.9-c794)" "" "" "Belleve Invis" "Belleve Invis" "Spatial efficient monospace font family for programming. Built from code. http://be5invis.github.io/Iosevka" "" "" "Copyright (c) 2018, Sam (<URL|email>),+AAoA-with Reserved Font Name Caulixtla Mono.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Caulixtla Mono" "Regular" "" "" "" "Caulixtla Mono" "Regular"
 GaspTable: 1 65535 15 1
-Encoding: win
-Compacted: 1
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 23 13
+WinInfo: 9729 23 13
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anclaje-0" "'mark' Posicionamiento de marca lookup 0 anchor 0" "Anclaje-1" "'mark' Posicionamiento de marca lookup 0 anchor 1" "Anclaje-2" "'mark' Posicionamiento de marca lookup 0 anchor 2" "Anclaje-3" "'mark' Posicionamiento de marca lookup 0 anchor 3" "Anclaje-4" "'mark' Posicionamiento de marca lookup 0 anchor 4" "Anclaje-5" "'mark' Posicionamiento de marca lookup 0 anchor 5" "Anclaje-6" "'mark' Posicionamiento de marca lookup 0 anchor 6" "Anclaje-7" "'mark' Posicionamiento de marca lookup 0 anchor 7" "Anclaje-8" "'mkmk' Marca sobre marca lookup 1 anchor 0" "Anclaje-9" "'mkmk' Marca sobre marca lookup 1 anchor 1" "Anclaje-10" "'mkmk' Marca sobre marca lookup 1 anchor 2" "Anclaje-11" "'mkmk' Marca sobre marca lookup 1 anchor 3" "Anclaje-12" "'mkmk' Marca sobre marca lookup 1 anchor 4" "Anclaje-13" "'mkmk' Marca sobre marca lookup 1 anchor 5" "Anclaje-14" "'mkmk' Marca sobre marca lookup 1 anchor 6" "Anclaje-15" "'mkmk' Marca sobre marca lookup 1 anchor 7"
-BeginChars: 3735 146
+BeginChars: 65541 150
 
 StartChar: uni000D
 Encoding: 13 13 0
@@ -14909,7 +14908,7 @@ Validated: 1
 EndChar
 
 StartChar: dotlessi
-Encoding: 307 305 121
+Encoding: 305 305 121
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -14983,7 +14982,7 @@ Substitution2: "'ss10' Style Set 10 lookup 7 subtable" dotlessi.ss10
 EndChar
 
 StartChar: uni0261
-Encoding: 603 609 122
+Encoding: 609 609 122
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15184,7 +15183,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0269
-Encoding: 611 617 123
+Encoding: 617 617 123
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15259,7 +15258,7 @@ Validated: 1
 EndChar
 
 StartChar: uni02BB
-Encoding: 693 699 124
+Encoding: 699 699 124
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15332,7 +15331,7 @@ Validated: 1
 EndChar
 
 StartChar: uni02BC
-Encoding: 694 700 125
+Encoding: 700 700 125
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15397,7 +15396,7 @@ Validated: 1
 EndChar
 
 StartChar: acutecomb
-Encoding: 737 769 126
+Encoding: 769 769 126
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15425,7 +15424,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0302
-Encoding: 738 770 127
+Encoding: 770 770 127
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15476,7 +15475,7 @@ Validated: 1
 EndChar
 
 StartChar: tildecomb
-Encoding: 739 771 128
+Encoding: 771 771 128
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15555,7 +15554,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0307
-Encoding: 743 775 129
+Encoding: 775 775 129
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15624,7 +15623,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0308
-Encoding: 744 776 130
+Encoding: 776 776 130
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15639,7 +15638,7 @@ Validated: 1
 EndChar
 
 StartChar: uni030A
-Encoding: 746 778 131
+Encoding: 778 778 131
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -15735,7 +15734,7 @@ Validated: 1
 EndChar
 
 StartChar: emdash
-Encoding: 151 8212 132
+Encoding: 8212 8212 132
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15784,7 +15783,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteleft
-Encoding: 145 8216 133
+Encoding: 8216 8216 133
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15795,7 +15794,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteright
-Encoding: 146 8217 134
+Encoding: 8217 8217 134
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15806,7 +15805,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblleft
-Encoding: 147 8220 135
+Encoding: 8220 8220 135
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15818,7 +15817,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblright
-Encoding: 148 8221 136
+Encoding: 8221 8221 136
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15830,7 +15829,7 @@ Validated: 1
 EndChar
 
 StartChar: bullet
-Encoding: 149 8226 137
+Encoding: 8226 8226 137
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15841,7 +15840,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 139 8249 138
+Encoding: 8249 8249 138
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15873,7 +15872,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglright
-Encoding: 155 8250 139
+Encoding: 8250 8250 139
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15905,7 +15904,7 @@ Validated: 1
 EndChar
 
 StartChar: arrowright
-Encoding: 1888 8594 140
+Encoding: 8594 8594 140
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15969,7 +15968,7 @@ Validated: 1
 EndChar
 
 StartChar: g.ss11
-Encoding: 2998 -1 141
+Encoding: 65536 -1 141
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -15986,7 +15985,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph2962
-Encoding: 2999 -1 142
+Encoding: 65537 -1 142
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -16003,7 +16002,7 @@ Validated: 1
 EndChar
 
 StartChar: at.ss11
-Encoding: 3064 -1 143
+Encoding: 65538 -1 143
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -16136,7 +16135,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph3483
-Encoding: 3520 -1 144
+Encoding: 65539 -1 144
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16227,7 +16226,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph3487
-Encoding: 3524 -1 145
+Encoding: 65540 -1 145
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -16325,6 +16324,127 @@ SplineSet
  199 49 199 49 250 49 c 256,26,27
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: spade
+Encoding: 9824 9824 146
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+158 45 m 1,0,-1
+ 158 108 l 1,1,-1
+ 215 108 l 1,2,-1
+ 215 232 l 1,3,4
+ 204 221 204 221 188 214 c 0,5,6
+ 167 205 167 205 141 205 c 0,7,8
+ 112 205 112 205 90 215 c 0,9,10
+ 65 225 65 225 49 246 c 0,11,12
+ 25 277 25 277 25 322 c 0,13,14
+ 25 408 25 408 137 555 c 0,15,16
+ 190 623 190 623 250 685 c 1,17,18
+ 310 623 310 623 363 555 c 0,19,20
+ 475 408 475 408 475 322 c 0,21,22
+ 475 277 475 277 451 246 c 0,23,24
+ 435 225 435 225 410 215 c 0,25,26
+ 388 205 388 205 359 205 c 0,27,28
+ 333 205 333 205 312 214 c 0,29,30
+ 296 221 296 221 285 232 c 1,31,-1
+ 285 108 l 1,32,-1
+ 342 108 l 1,33,-1
+ 342 45 l 1,34,-1
+ 158 45 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: club
+Encoding: 9827 9827 147
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+158 45 m 1,0,-1
+ 158 108 l 1,1,-1
+ 215 108 l 1,2,-1
+ 215 261 l 1,3,4
+ 209 256 209 256 202 252 c 0,5,6
+ 176 237 176 237 139 237 c 256,7,8
+ 102 237 102 237 76 252 c 0,9,10
+ 53 266 53 266 39 289 c 0,11,12
+ 24 315 24 315 24 352 c 128,-1,13
+ 24 389 24 389 39 415 c 0,14,15
+ 53 439 53 439 76 452 c 0,16,17
+ 102 467 102 467 139 467 c 0,18,19
+ 150 467 150 467 161 466 c 1,20,21
+ 155 472 155 472 150 481 c 0,22,23
+ 135 507 135 507 135 544 c 128,-1,24
+ 135 581 135 581 150 607 c 0,25,26
+ 164 631 164 631 187 644 c 0,27,28
+ 213 659 213 659 250 659 c 256,29,30
+ 287 659 287 659 313 644 c 0,31,32
+ 336 631 336 631 350 607 c 0,33,34
+ 365 581 365 581 365 544 c 128,-1,35
+ 365 507 365 507 350 481 c 0,36,37
+ 345 472 345 472 339 466 c 1,38,39
+ 350 467 350 467 361 467 c 0,40,41
+ 398 467 398 467 424 452 c 0,42,43
+ 447 439 447 439 461 415 c 0,44,45
+ 476 389 476 389 476 352 c 128,-1,46
+ 476 315 476 315 461 289 c 0,47,48
+ 447 266 447 266 424 252 c 0,49,50
+ 398 237 398 237 361 237 c 256,51,52
+ 324 237 324 237 298 252 c 0,53,54
+ 291 256 291 256 285 261 c 1,55,-1
+ 285 108 l 1,56,-1
+ 342 108 l 1,57,-1
+ 342 45 l 1,58,-1
+ 158 45 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: heart
+Encoding: 9829 9829 148
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+250 45 m 1,0,1
+ 190 128 190 128 137 219 c 0,2,3
+ 25 414 25 414 25 529 c 0,4,5
+ 25 589 25 589 49 630 c 0,6,7
+ 65 658 65 658 90 672 c 0,8,9
+ 112 685 112 685 141 685 c 0,10,11
+ 167 685 167 685 188 673 c 0,12,13
+ 210 660 210 660 226 633 c 0,14,15
+ 249 594 249 594 250 531 c 2,16,-1
+ 250 536 l 2,17,18
+ 251 593 251 593 274 633 c 0,19,20
+ 290 660 290 660 312 673 c 0,21,22
+ 333 685 333 685 359 685 c 0,23,24
+ 388 685 388 685 410 672 c 0,25,26
+ 435 658 435 658 451 630 c 0,27,28
+ 475 589 475 589 475 529 c 0,29,30
+ 475 414 475 414 363 219 c 0,31,32
+ 310 128 310 128 250 45 c 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: diamond
+Encoding: 9830 9830 149
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+250 45 m 1,0,-1
+ 25 365 l 1,1,-1
+ 250 685 l 1,2,-1
+ 475 365 l 1,3,-1
+ 250 45 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
