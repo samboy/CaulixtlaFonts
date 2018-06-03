@@ -38,7 +38,9 @@ The files are in multiple formats:
 * The Fontforge .sfd source files (the older 2014 fonts do not have
   Fontforge source files)
 
-To see how to use the files, look at [sample.html](sample.html).
+To see how to use the files, look at [index.html](index.html); 
+[sample.html](sample.html) has the fonts defined using a Base64 
+Data-URI.
 
 --
 
