@@ -18,7 +18,7 @@ if($argc != 3 && $argc != 4) {
 $a = file_get_contents($argv[1]);
 $b = base64_encode($a);
 
-# See if this is a bold or italix font
+# See if this is a bold or italic font
 $more = "";
 if($argc == 4) {
     if(preg_match('/B/',$argv[3])) {
