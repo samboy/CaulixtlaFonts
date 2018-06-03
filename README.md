@@ -1,3 +1,5 @@
+[To view the fonts, click on this link](https://samboy.github.io/CaulixtlaFonts/)
+
 This is the web fonts used on Samiam.org (as of 2018).  I am using
 my own variants of open source fonts for a number of reasons:
 
@@ -36,7 +38,7 @@ The files are in multiple formats:
 * The Fontforge .sfd source files (the older 2014 fonts do not have
   Fontforge source files)
 
-To see how to use the files, look at [https://samboy.github.io/CaulixtlaFonts/sample.html](sample.html).
+To see how to use the files, look at [sample.html](sample.html).
 
 --
 
