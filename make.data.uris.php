@@ -1,5 +1,13 @@
 #!/usr/bin/php
 <?php
+
+# This is a PHP script for making CSS with fonts embedded in Data URIs
+# Example usage:
+#
+# ./make.data.uris.php Caulixtla008.woff2 Caulixtla > Caulixtla.css
+#
+# Donated to the public domain (CC0) by Sam Trenholme June 3 2018
+
 # Parse args
 if($argc != 3 && $argc != 4) {
 	print "Usage: " . $argv[0] . " {WOFF(2) font file} {font name}\n";
