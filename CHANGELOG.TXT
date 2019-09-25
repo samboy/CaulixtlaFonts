@@ -1,4 +1,17 @@
-﻿2018 changes (2018-03-09):
+﻿2019 changes (2019-09-25):
+
+I found the "1" unbalanced in Caulixtla008 (Roman), so have revised
+how it looks to be more balanced with the other numbers.  This revision
+is a new font: Caulixtla009.
+
+I have also put the main 5 fonts (Serif Roman, Sans Semibold, Serif Italic,
+Serif Bold, Sans Semibold Small Caps) in a single inline-fonts.css file
+(using the older .woff format so that it works in Internet Explorer and
+other older browsers), to speed up page load times (since there is a bit 
+of overhead loading multiple files to try and get the smallest possible 
+font download).
+
+2018 changes (2018-03-09):
 
 * The slightly darker Charis SIL font (derived from Bitstream Charter)
   looks better for non-italic text on the screen, especially on low 
