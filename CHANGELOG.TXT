@@ -11,6 +11,9 @@ other older browsers), to speed up page load times (since there is a bit
 of overhead loading multiple files to try and get the smallest possible 
 font download).
 
+Since each font is in five or six formats, each font now has its own 
+directory.
+
 2018 changes (2018-03-09):
 
 * The slightly darker Charis SIL font (derived from Bitstream Charter)
