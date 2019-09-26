@@ -1,6 +1,6 @@
 [To view the fonts, click on this link](https://samboy.github.io/CaulixtlaFonts/)
 
-This is the web fonts used on Samiam.org (as of 2018).  I am using
+This is the web fonts used on Samiam.org (as of 2019).  I am using
 my own variants of open source fonts for a number of reasons:
 
 * I want to have a series of 100% open source fonts which look good
