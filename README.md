@@ -35,6 +35,7 @@ The files are in multiple formats:
   supported by current versions of Edge browser)
 * EOT web fonts, for Internet Explorer 8 or before.  This is an obsolete web
   font format.
+* SVG web fonts.  Like EOT, this is an obsolete web font format.
 * The Fontforge .sfd source files (the older 2014 fonts do not have
   Fontforge source files)
 
