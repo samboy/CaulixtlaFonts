@@ -11,7 +11,8 @@ other older browsers), to speed up page load times (since there is a bit
 of overhead loading multiple files to try and get the smallest possible 
 font download).
 
-Since each font is in five or six formats, each font now has its own 
+Since each font is in five or six formats (Fontforge source, True Type, WOFF,
+WOFF2, and even the obsolete EOT and SVG formats), each font now has its own 
 directory.
 
 2018 changes (2018-03-09):
