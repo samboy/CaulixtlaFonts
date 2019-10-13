@@ -50,6 +50,7 @@ Font list:
 ```
 Caulixtla008: Charis SIL roman (Bitstram Charter variant; serif)
 Caulixtla009: Caulixtla008 with the "1" character updated
+Caulixtla009a: Caulixtla009 with the underline position fixed
 Caulixtla008-Bold: Source Sans Pro variant (Alt forms for "g" and "l"; sans)
 Caulixtla008-Italic: Bitstream Charter Italic
 Chortle2014f-Bold: Bitstream Charter bold [1]
