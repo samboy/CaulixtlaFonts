@@ -1,4 +1,9 @@
-﻿2019 changes (2019-09-25):
+﻿2019-10 changes:
+
+* Hinting added to Caulixtla serif roman.
+* Underline position in Caulixtla serif roman fixed.
+
+2019-09 changes (2019-09-25):
 
 I found the "1" unbalanced in Caulixtla008 (Roman), so have revised
 how it looks to be more balanced with the other numbers.  This revision
