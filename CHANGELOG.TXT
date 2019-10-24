@@ -1,6 +1,7 @@
 ﻿2019-10 changes:
 
-* Hinting added to Caulixtla serif roman.
+* Hinting added to Caulixtla serif roman (only affects rendering on
+  low-end low-resolution 75dpi displays)
 * Underline position in Caulixtla serif roman fixed.
 
 2019-09 changes (2019-09-25):
