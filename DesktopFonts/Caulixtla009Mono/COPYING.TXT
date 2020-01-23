@@ -2,17 +2,15 @@ There are pieces of the following font families here:
 
 * Steve Matteson's Liberation Mono / Cousine (The older OFL version)
 
-* The card symbols in the monospace font and the right arrow in come 
-  from DejaVu; since these are glyphs which are not part of Bitstream 
-  Vera nor Arev, the symbols are public domain
+* The card symbols in the monospace font come from DejaVu; since these 
+  are glyphs which are not part of Bitstream Vera nor Arev, the symbols 
+  are public domain
 
 * The font m7x14.fon comes from the public domain "misc-fixed" font set
   included with X11
 
 The fonts are open source fonts and are used in compliance with their
 licenses.  Read below for legal details.
-
---
 
 ---
 
