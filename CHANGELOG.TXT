@@ -1,4 +1,13 @@
-﻿2019-10 changes:
+﻿2020-01 changes:
+
+* Added DesktopFonts.  These are versions suitable for using in a
+  word processor; all fonts are now a full regular/bold/italic/bolditalic
+  set (with the sans version, “italics” is actually small caps) which can
+  be used with mainstream desktop programs.
+
+* WTerm: The font is now a true monospace font.
+
+2019-10 changes:
 
 * Hinting added to Caulixtla serif roman (only affects rendering on
   low-end low-resolution 75dpi displays)
