@@ -1,10 +1,11 @@
 # What this is
 
 This is a modified version of the desktop fonts with a few more
-symbols (Section symbol from Bitstream Charter, <= and >= symbols
-from Source Serif Pro, bullet symbol from Serif copied in to middle
-dot in both serif and sans) so that, when rending the PDF file for
-Lunacy, no symbols from system fonts are present in the PDF.
+symbols (Section symbol and en dash from Bitstream Charter, <= 
+and >= symbols from Source Serif Pro, bullet symbol from Serif 
+copied in to middle dot in both serif and sans) so that, when 
+rendering the PDF file for [Lunacy](https://github.com/samboy/lunacy), 
+no symbols from system fonts are present in the PDF.
 
 # Where these fonts come from
 
