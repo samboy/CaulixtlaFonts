@@ -20,4 +20,3 @@ Non-printable chars (rendered as -)
 Also:
 
 10 is em dash (—)
-1e is, in AWK, record separator (→ here, which can mean that)
