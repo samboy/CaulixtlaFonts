@@ -1,4 +1,5 @@
-*Amargo* is my “house” variant of Sol Matas’s very beautiful “Bitter” font.
+*Amargo* is my “house” variant of [Sol Matas’s](https://www.solmatas.com/) 
+very beautiful “Bitter” font.
 
 # Notes
 
