@@ -1,6 +1,6 @@
   0123456789abcdef
 0 -ÁÉÍÑÓÚÜ¡--•--«»
-1 —áéíñóúü¿‘’-“”→©
+1 —áéíñóúü¿‘’-→“”©
 2 -!"#$%&'()*+,-./
 3 0123456789:;<=>?
 4 @ABCDEFGHIJKLMNO
@@ -20,3 +20,4 @@ Non-printable chars (rendered as -)
 Also:
 
 10 is em dash (—)
+2d is ASCII dash (-)
