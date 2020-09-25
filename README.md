@@ -1,6 +1,6 @@
 [To view the fonts, click on this link](https://samboy.github.io/CaulixtlaFonts/)
 
-This is the web fonts used on Samiam.org (as of 2019).  I am using
+This is the web fonts used on Samiam.org (as of 2020).  I am using
 my own variants of open source fonts for a number of reasons:
 
 * I want to have a series of 100% open source fonts which look good
@@ -43,33 +43,9 @@ To see how to use the files, look at [index.html](index.html);
 [sample.html](sample.html) has the fonts defined using a Base64 
 Data-URI.
 
---
-
-Font list:
-
-```
-Caulixtla008: Charis SIL roman (Bitstram Charter variant; serif)
-Caulixtla009: Caulixtla008 with the "1" character updated
-Caulixtla009a: Caulixtla009 with the underline position fixed
-Caulixtla008-Bold: Source Sans Pro variant (Alt forms for "g" and "l"; sans)
-Caulixtla008-Italic: Bitstream Charter Italic
-Chortle2014f-Bold: Bitstream Charter bold [1]
-MiniCaulixtla-SerifBold: Bitstream Charter bold, only letters and numbers [1]
-m7x14: Windows conversion of public domain X11 "misc-fixed" font at 7x14 size
-UserSmallCaps: Source Sans Pro, small caps (used only on my resume)
-MiniSmallCaps: Source Sans Pro, small caps, only letters 
-WTerm: Older version of Cousine/Liberation Mono with delta hinting
-```
-
-[1] The reason why the Bold version of Caulixtla008 is a different sans
-    typeface is because the only page which uses actual Bitstream Charter
-    bold is my resume; this reduces page load size on most of my website.
-    It also makes it easier to paste or import large documents in to a word 
-    processor and have the formatting be sans-for-headings serif-for-text.
-
---
-
-Subsetting: The three Caulixtla008 fonts are subsetted with ASCII and a 
-small subset of Unicode for writing documents in the English and Spanish
-languages.  000XASCII.png shows the subsetting.
-
+The folder `DesktopFonts` has desktop versions of the fonts, suitable
+for use in word processors and other desktop programs.  The folder
+`WebpageFonts` has a version of a subset of the fonts suitable for
+use on a webpage (were cross-browser compatibility and small file size
+is very important).  `MiscFonts` has the source fonts from which the
+Desktop and Webpage fonts have been derived.
