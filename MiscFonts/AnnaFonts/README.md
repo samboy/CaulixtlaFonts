@@ -2,7 +2,7 @@ AnnaSerif: Monospace version of Verily (Bitstream Serif Mono, if you will)
 
 AnnaTerm: Slight modification to Fira Mono (0 has slash, not dot, subset)
 
-minttyrc: minttyrc for Cygwin terminal in Windows
+minttyrc: .minttyrc file for Cygwin terminal in Windows
 
 The name “Anna” is named after the T470 computer these fonts were made
 for; the computer is named after the Frozen character (the other
