@@ -1,0 +1,8 @@
+BellType=0
+BellTaskbar=no
+CursorType=block
+Font=AnnaTerm
+ForegroundColour=0,255,0
+FontHeight=9
+FontWeight=500
+FontSmoothing=partial
