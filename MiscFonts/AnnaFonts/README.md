@@ -8,4 +8,4 @@ The name “Anna” is named after the T470 computer these fonts were made
 for; the computer is named after the Frozen character (the other
 computer I bought at the same time is “Elsa”).
 
-Last updated: 2020-10-22
+Last updated: 2020-10-23
