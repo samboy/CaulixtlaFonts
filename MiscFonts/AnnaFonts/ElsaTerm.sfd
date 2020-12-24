@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608560709
-ModificationTime: 1608833983
+ModificationTime: 1608835311
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -12205,19 +12205,9 @@ StartChar: quoteleft
 Encoding: 8216 8216 97
 Width: 600
 Flags: W
-TtInstrs:
-PUSHB_2
- 0
- 1
-PUSHW_1
- 615
-PUSHB_1
- 53
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 14 44 N -1 0 0 -1 605 615 2
+Refer: 14 44 N -1 0 0 1 536 625 2
 EndChar
 
 StartChar: quoteright
@@ -12243,63 +12233,19 @@ StartChar: quotedblleft
 Encoding: 8220 8220 99
 Width: 600
 Flags: W
-TtInstrs:
-NPUSHB
- 39
- 2
- 1
- 0
- 1
- 1
- 0
- 87
- 2
- 1
- 0
- 0
- 1
- 95
- 5
- 3
- 4
- 3
- 1
- 0
- 1
- 79
- 4
- 4
- 0
- 0
- 4
- 7
- 4
- 7
- 6
- 5
- 0
- 3
- 0
- 3
- 17
- 6
- 9
- 23
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-302 465 m 1,0,-1
- 432 776 l 1,1,-1
- 527 776 l 1,2,-1
- 447 465 l 1,3,-1
- 302 465 l 1,0,-1
-63 465 m 1,4,-1
- 193 776 l 1,5,-1
- 288 776 l 1,6,-1
- 208 465 l 1,7,-1
- 63 465 l 1,4,-1
+298 465 m 1,0,-1
+ 218 776 l 1,1,-1
+ 73 776 l 1,2,-1
+ 203 465 l 1,3,-1
+ 298 465 l 1,0,-1
+537 465 m 1,4,-1
+ 457 776 l 1,5,-1
+ 312 776 l 1,6,-1
+ 442 465 l 1,7,-1
+ 537 465 l 1,4,-1
 EndSplineSet
 EndChar
 
