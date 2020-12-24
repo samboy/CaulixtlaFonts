@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: ElsaTerm-Bold
 FullName: ElsaTerm Bold
-FamilyName: ElsaTerm Bold
+FamilyName: ElsaTerm
 Weight: Bold
 Copyright: Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL). OFL. 
 Version: 2.220; ttfautohint (v1.8.3)
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608560709
-ModificationTime: 1608835270
+ModificationTime: 1608843918
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
