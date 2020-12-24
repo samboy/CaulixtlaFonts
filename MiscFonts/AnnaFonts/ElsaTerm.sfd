@@ -23,9 +23,9 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608560709
-ModificationTime: 1608835922
+ModificationTime: 1608844777
 PfmFamily: 17
-TTFWeight: 500
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -3931,7 +3931,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 2.220; ttfautohint (v1.8.3)" "" "JetBrains Mono is a trademark of JetBrains s.r.o." "JetBrains" "Philipp Nurullin, Konstantin Bulenkov" "" "https://www.jetbrains.com" "https://www.jetbrains.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "ElsaTerm"
+LangName: 1033 "" "" "" "" "" "Version 2.220; ttfautohint (v1.8.3)" "" "JetBrains Mono is a trademark of JetBrains s.r.o." "JetBrains" "Philipp Nurullin, Konstantin Bulenkov" "" "https://www.jetbrains.com" "https://www.jetbrains.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "ElsaTerm" "Regular"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 Compacted: 1
