@@ -8,3 +8,5 @@ Point being, these conversions are mainly of historical interest, or
 for people who want to recreate the past and play the “can we make it
 look OK in Internet Explorer 6” game web designers were forced to play
 in the first 2000s decade.
+
+Note that modern standards compliant browsers do *not* support EOT fonts.
