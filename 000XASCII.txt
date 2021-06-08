@@ -20,5 +20,9 @@ Non-printable chars (rendered as .)
 Also:
 
 10 is em dash (—)
+19 is left smart single quote (‘)
+1a is right smart quote (’)
+1d is left smart double quote (“)
+1e is right smart double quote (”)
 2d is ASCII dash (-)
 2e is ASCII period (.)
