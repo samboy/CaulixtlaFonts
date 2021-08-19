@@ -1,3 +1,12 @@
+# What this is
+
+This is a minimal set of fonts suitable for webpage use on
+pages with only English and/or Spanish text.  To minimize size, only
+English and Spanish letters and symbols are included (it’s a *slight*
+superset of ASCII with Spanish and smart quotes).
+
+# The fonts
+
 Caulixtla009p: Roman (not bold, not italic) serif font.
 
 Caulixtla008-Bold: Semibold sans.
