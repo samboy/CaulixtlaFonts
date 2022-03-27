@@ -1,4 +1,4 @@
-﻿2020-01 changes:
+﻿2020-01 changes: 
 
 * Added DesktopFonts.  These are versions suitable for using in a
   word processor; all fonts are now a full regular/bold/italic/bolditalic
