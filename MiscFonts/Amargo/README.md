@@ -1,4 +1,4 @@
-[To view a sample of this web font, click here](https://samboy.github.io/CaulixtlaFonts/Amargo/sample.html)
+[To view a sample of this web font, click here](https://samboy.github.io/CaulixtlaFonts/MiscFonts/Amargo/sample.html)
 
 *Amargo* is my “house” variant of [Sol Matas’s](https://www.solmatas.com/) 
 very beautiful “Bitter” font.

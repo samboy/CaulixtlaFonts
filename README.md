@@ -1,6 +1,6 @@
 [To view the fonts, click on this link](https://samboy.github.io/CaulixtlaFonts/)
 
-This is the web fonts used on Samiam.org (as of 2020).  I am using
+This is the web fonts used on Samiam.org (as of 2022).  I am using
 my own variants of open source fonts for a number of reasons:
 
 * I want to have a series of 100% open source fonts which look good
@@ -29,6 +29,7 @@ right).
 The files are in multiple formats:
 
 * The original TTF files
+* A .css file with inline WOFF versions of the inline fonts
 * WOFF web fonts, supported by every current browser
 * WOFF2 web fonts, supported by every current browser, but was not supported
   by Safari until 2016, and is not supported by Internet Explorer (but is
