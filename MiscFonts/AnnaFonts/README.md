@@ -1,4 +1,4 @@
-[To view a sample of some of the fonts, click here](https://samboy.github.io/CaulixtlaFonts/MiscFonts/AnnaTerm/sample.html)
+[To view a sample of some of the fonts, click here](https://samboy.github.io/CaulixtlaFonts/MiscFonts/AnnaFonts/sample.html)
 
 # Overview
 
