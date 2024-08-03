@@ -1,8 +1,24 @@
 <html><head>
 <title>Font Sample page</title>
 <style>
-@import url('inline-fonts.css');
-body { font-family: Caulixtla, "Liberation Serif", "Times New Roman", serif;
+@font-face {
+    font-family: AnnaTerm;
+    src: url('AnnaTerm.woff')
+         format('woff');
+}
+@font-face {
+    font-family: AnnaTerm;
+    font-style: italic;
+    src: url('AnnaSerif.woff')
+         format('woff');
+}
+@font-face {
+    font-family: AnnaTerm;
+    font-weight: bold;
+    src: url('AnnaTermBold.woff')
+         format('woff');
+}
+body { font-family: AnnaTerm, "Liberation Serif", "Times New Roman", serif;
        background: #fff;
        color: #333; }
 </style>
