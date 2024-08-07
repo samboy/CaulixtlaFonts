@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1441835616
-ModificationTime: 1641372537
+ModificationTime: 1723063947
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -3842,12 +3842,13 @@ EndShort
 LangName: 1033 "Digitized data copyright +AKkA 2012-2015, The Mozilla Foundation and Telefonica S.A." "" "Regular" "FontForge 2.0 : AnnaTermMini : 5-1-2022" "" "Version 3.206;PS 003.206;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qss -W -X +ACIAIgAA" "" "Fira Mono is a trademark of The Mozilla Corporation." "Carrois Corporate GbR & Edenspiekermann AG" "Carrois Corporate & Edenspiekermann AG" "" "http://www.carrois.com" "http://www.carrois.com" "Licensed under the Open Font License, version 1.1 or later" "http://scripts.sil.org/OFL" "" "AnnaTermMini" "Medium"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 38 12
+WinInfo: 0 38 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65539 126
@@ -13921,51 +13922,19 @@ Encoding: 8216 8216 119
 Width: 600
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 27
- 13
- 1
- 0
- 1
- 1
- 76
- 0
- 1
- 0
- 0
- 1
- 87
- 0
- 1
- 1
- 0
- 97
- 0
- 0
- 1
- 0
- 81
- 22
- 35
- 2
- 7
- 24
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-377 545 m 0,0,1
- 377 500 377 500 336 476 c 0,2,3
- 316 465 316 465 294 465 c 0,4,5
- 246 465 246 465 223 505 c 0,6,7
- 212 524 212 524 212 545 c 0,8,9
- 213 578 213 578 235 625 c 2,10,-1
- 313 789 l 1,11,-1
- 388 789 l 1,12,-1
- 346 608 l 1,13,14
- 376 584 376 584 377 545 c 0,0,1
+377 709 m 0,0,1
+ 377 756 377 756 335 779 c 0,2,3
+ 316 789 316 789 294 789 c 0,4,5
+ 245 789 245 789 222 749 c 0,6,7
+ 211 730 211 730 211 709 c 0,8,9
+ 212 678 212 678 235 629 c 2,10,-1
+ 313 465 l 1,11,-1
+ 388 465 l 1,12,-1
+ 346 647 l 1,13,14
+ 376 669 376 669 377 709 c 0,0,1
 EndSplineSet
 EndChar
 
@@ -14049,67 +14018,29 @@ Encoding: 8220 8220 121
 Width: 600
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 33
- 28
- 13
- 2
- 0
- 1
- 1
- 76
- 3
- 1
- 1
- 0
- 0
- 1
- 87
- 3
- 1
- 1
- 1
- 0
- 97
- 2
- 1
- 0
- 1
- 0
- 81
- 22
- 38
- 22
- 35
- 4
- 7
- 26
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-266 545 m 0,0,1
- 266 500 266 500 225 476 c 0,2,3
- 205 465 205 465 183 465 c 0,4,5
- 134 465 134 465 111 506 c 0,6,7
- 101 525 101 525 101 545 c 0,8,9
- 102 578 102 578 124 625 c 2,10,-1
- 201 789 l 1,11,-1
- 276 789 l 1,12,-1
- 235 608 l 1,13,14
- 265 584 265 584 266 545 c 0,0,1
-489 545 m 0,15,16
- 489 500 489 500 448 476 c 0,17,18
- 428 465 428 465 406 465 c 0,19,20
- 357 465 357 465 334 506 c 0,21,22
- 324 525 324 525 324 545 c 0,23,24
- 325 580 325 580 346 625 c 2,25,-1
- 424 789 l 1,26,-1
- 499 789 l 1,27,-1
- 457 608 l 1,28,29
- 488 584 488 584 489 545 c 0,15,16
+488 712 m 0,0,1
+ 488 759 488 759 446 781 c 0,2,3
+ 426 791 426 791 405 791 c 0,4,5
+ 356 791 356 791 333 751 c 0,6,7
+ 323 732 323 732 323 712 c 0,8,9
+ 324 682 324 682 347 631 c 2,10,-1
+ 424 468 l 1,11,-1
+ 499 468 l 1,12,-1
+ 458 649 l 1,13,14
+ 487 673 487 673 488 712 c 0,0,1
+266 712 m 0,15,16
+ 266 759 266 759 224 781 c 0,17,18
+ 204 791 204 791 183 791 c 0,19,20
+ 133 791 133 791 110 750 c 0,21,22
+ 100 732 100 732 100 712 c 0,23,24
+ 101 679 101 679 124 631 c 2,25,-1
+ 202 468 l 1,26,-1
+ 276 468 l 1,27,-1
+ 234 649 l 1,28,29
+ 265 673 265 673 266 712 c 0,15,16
 EndSplineSet
 EndChar
 
