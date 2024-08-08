@@ -1,1 +1,3 @@
-AnnaTermMini: Like AnnaTerm, but no upper case ÁÉÍÓÚ«» in bold version. 
+[To view a sample of the fonts, click here](https://samboy.github.io/CaulixtlaFonts/MiscFonts/AnnaFonts/AnnaTermMini/sample.html)
+
+AnnaTermMini: Like AnnaTerm, but no ÁÉÍÓÚÜ«»©∞ in bold version. 
