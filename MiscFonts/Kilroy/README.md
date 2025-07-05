@@ -1,4 +1,4 @@
-Styx in 1983 made a song called “Mr. Roboto” with the lyrics “Kilroy was
+Styx in 1983 made a song called “Mr. Roboto” with the lyrics “Kilroy was
 here”. So this is my take on Roboto fonts.
 
 Kilroy1: This is Roboto Serif with only Regular/Bold/Italic/BoldItalic forms
