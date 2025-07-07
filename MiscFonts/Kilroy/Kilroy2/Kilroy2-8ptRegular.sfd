@@ -711,7 +711,7 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "Version 1.008" "" "Roboto is a registered trademark of Google, Inc." "Commercial Type" "Greg Gazdowicz" "" "https://www.commercialtype.com/" "https://www.commercialtype.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Roboto Serif" "20pt Regular"
+LangName: 1033 "" "" "" "" "" "Version 1.008" "" "Roboto is a registered trademark of Google, Inc." "Commercial Type" "Greg Gazdowicz" "" "https://www.commercialtype.com/" "https://www.commercialtype.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 OtfFeatName: 'ss01' 1033 "E F with serif on crossbar"
 OtfFeatName: 'ss02' 1033 "alternate g"
