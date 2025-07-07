@@ -5,3 +5,5 @@ Kilroy is as follows:
 * Weight is 400 and 700
 * Optical size is 8
 * Subsetted to minimize font size
+* Numbers are inline tabular numbers
+
