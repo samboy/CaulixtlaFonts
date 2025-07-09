@@ -7,3 +7,4 @@ Kilroy is as follows:
 * Subsetted to minimize font size
 * Numbers are inline tabular numbers
 
+Kilroy4.7z has the .ttf fonts in a single compressed file. 
