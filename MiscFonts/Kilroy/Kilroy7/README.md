@@ -4,5 +4,5 @@ Instead of an infinity symbol, the special symbol is now a heart.
 
 There is no BoldItalic; for people who want Bold Italic, use Kilroy6.
 
-Numers are tabular and linear. Also, a bug in the Roboto Serif font 
+Numers are tabular and lining. Also, a bug in the Roboto Serif font 
 with → is fixed.
