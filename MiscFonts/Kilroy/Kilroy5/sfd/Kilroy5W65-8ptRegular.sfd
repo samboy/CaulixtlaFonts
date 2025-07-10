@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Kilroy5W65-8ptRegular
 FullName: Kilroy5W65 8pt Regular
-FamilyName: Kilroy5W65
+FamilyName: Kilroy5W65 8pt
 Weight: Regular
 Copyright: Copyright 2020 The Roboto Serif Project Authors (https://github.com/googlefonts/RobotoSerif) OFL
 Version: 1.008
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586430965
-ModificationTime: 1752109501
+ModificationTime: 1752110449
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 2
@@ -639,25 +639,25 @@ ChainSub2: class "'frac' Diagonal Fractions lookup 14 subtable" 2 3 3 23
 EndFPST
 ContextSub2: glyph "'locl' Localized Forms in Latin lookup 10 subtable" 0 0 0 2
  String: 8 Scedilla
- BString: 0
- FString: 0
+ BString: 0 
+ FString: 0 
  1
   SeqLookup: 0 "Single Substitution lookup 11"
  String: 8 scedilla
- BString: 0
- FString: 0
+ BString: 0 
+ FString: 0 
  1
   SeqLookup: 0 "Single Substitution lookup 11"
 EndFPST
 ContextSub2: glyph "'locl' Localized Forms in Latin lookup 7 subtable" 0 0 0 2
  String: 3 I J
- BString: 0
- FString: 0
+ BString: 0 
+ FString: 0 
  1
   SeqLookup: 0 "Ligature Substitution lookup 8"
  String: 3 i j
- BString: 0
- FString: 0
+ BString: 0 
+ FString: 0 
  1
   SeqLookup: 0 "Ligature Substitution lookup 9"
 EndFPST
@@ -14833,7 +14833,7 @@ EndChar
 
 StartChar: tcaron
 Encoding: 357 357 485
-Width: 426
+Width: 424
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -20641,7 +20641,7 @@ EndChar
 
 StartChar: firsttonechinese
 Encoding: 713 713 648
-Width: 438
+Width: 437
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -21998,7 +21998,7 @@ EndChar
 
 StartChar: figuredash
 Encoding: 8210 8210 701
-Width: 593
+Width: 588
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -24396,7 +24396,7 @@ EndChar
 
 StartChar: micro
 Encoding: 181 181 772
-Width: 558
+Width: 613
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -26971,7 +26971,7 @@ EndChar
 
 StartChar: dotaccent_macron
 Encoding: 65557 -1 836
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" 219 526 mark 0
@@ -28217,7 +28217,7 @@ EndChar
 
 StartChar: softhyphen
 Encoding: 173 173 876
-Width: 422
+Width: 438
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -28446,7 +28446,7 @@ EndChar
 
 StartChar: brevebelow
 Encoding: 65561 -1 895
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 222 -46 mark 0
@@ -28574,7 +28574,7 @@ EndChar
 
 StartChar: dieresisbelow
 Encoding: 65566 -1 900
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 219 -58 mark 0
@@ -28585,7 +28585,7 @@ EndChar
 
 StartChar: dotbelow
 Encoding: 65567 -1 901
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 219 -35 mark 0
@@ -28642,7 +28642,7 @@ EndChar
 
 StartChar: macronbelow
 Encoding: 65571 -1 905
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 219 -20 mark 0
@@ -31229,7 +31229,7 @@ EndChar
 
 StartChar: guilsinglleft.uc
 Encoding: 65616 -1 975
-Width: 357
+Width: 358
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -32175,7 +32175,7 @@ EndChar
 
 StartChar: macron.uc
 Encoding: 65648 -1 1007
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" 219 694 mark 0
@@ -32317,7 +32317,7 @@ EndChar
 
 StartChar: dotaccent.uc
 Encoding: 65656 -1 1015
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" 219 720 mark 0
@@ -32328,7 +32328,7 @@ EndChar
 
 StartChar: dotaccent_macron.uc
 Encoding: 65657 -1 1016
-Width: 438
+Width: 437
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" 246 694 mark 0
@@ -36584,7 +36584,7 @@ EndChar
 
 StartChar: Iebrevecyr.alt1
 Encoding: 65752 -1 1135
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -36596,7 +36596,7 @@ EndChar
 
 StartChar: Iemacroncyr.alt1
 Encoding: 65753 -1 1136
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -36700,7 +36700,7 @@ EndChar
 
 StartChar: Ie.alt1
 Encoding: 65757 -1 1140
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -36775,7 +36775,7 @@ EndChar
 
 StartChar: Io.alt1
 Encoding: 65759 -1 1142
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38775,7 +38775,7 @@ EndChar
 
 StartChar: Egrave.alt
 Encoding: 65800 -1 1183
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38787,7 +38787,7 @@ EndChar
 
 StartChar: Eacute.alt
 Encoding: 65801 -1 1184
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38799,7 +38799,7 @@ EndChar
 
 StartChar: Ecircumflex.alt
 Encoding: 65802 -1 1185
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38811,7 +38811,7 @@ EndChar
 
 StartChar: Edieresis.alt
 Encoding: 65803 -1 1186
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38823,7 +38823,7 @@ EndChar
 
 StartChar: Emacron.alt
 Encoding: 65804 -1 1187
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38835,7 +38835,7 @@ EndChar
 
 StartChar: Ebreve.alt
 Encoding: 65805 -1 1188
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38847,7 +38847,7 @@ EndChar
 
 StartChar: Edotaccent.alt
 Encoding: 65806 -1 1189
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -38859,7 +38859,7 @@ EndChar
 
 StartChar: Eogonek.alt
 Encoding: 65807 -1 1190
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39086,7 +39086,7 @@ EndChar
 
 StartChar: Emacrongrave.alt
 Encoding: 65811 -1 1194
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39099,7 +39099,7 @@ EndChar
 
 StartChar: Emacronacute.alt
 Encoding: 65812 -1 1195
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39112,7 +39112,7 @@ EndChar
 
 StartChar: Ecedillabreve.alt
 Encoding: 65813 -1 1196
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39125,7 +39125,7 @@ EndChar
 
 StartChar: Edotbelow.alt
 Encoding: 65814 -1 1197
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39137,7 +39137,7 @@ EndChar
 
 StartChar: Ehoi.alt
 Encoding: 65815 -1 1198
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39149,7 +39149,7 @@ EndChar
 
 StartChar: Etilde.alt
 Encoding: 65816 -1 1199
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39161,7 +39161,7 @@ EndChar
 
 StartChar: Ecircumflexacute.alt
 Encoding: 65817 -1 1200
-Width: 644
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39185,7 +39185,7 @@ EndChar
 
 StartChar: Ecircumflexhoi.alt
 Encoding: 65819 -1 1202
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39197,7 +39197,7 @@ EndChar
 
 StartChar: Ecircumflextilde.alt
 Encoding: 65820 -1 1203
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
@@ -39209,7 +39209,7 @@ EndChar
 
 StartChar: Ecircumflexdotbelow.alt
 Encoding: 65821 -1 1204
-Width: 631
+Width: 630
 GlyphClass: 1
 Flags: W
 LayerCount: 2
