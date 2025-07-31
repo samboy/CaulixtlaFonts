@@ -1,6 +1,20 @@
 Styx in 1983 made a song called “Mr. Roboto” with the lyrics “Kilroy was
 here”. So this is my take on Roboto fonts.
 
+The ones to use are:
+
+* KilroyA: This is the one to use on the desktop. It’s the usual
+  regular/bold/italic/boldItalic for legacy word processor compatibility.
+  This is only in TTF format.
+* Kilroy8: This is the one to use on the web. This is Kilroy8 subsetted
+  to only have ASCII and a few extra characters (smart quotes, Spanish)
+  in order to minimize its size. The main web formats (notably woff2, and CSS
+  with those WOFF2 fonts embedded) are supported, as well as some obsolete
+  formats (WOFF and EOT).  TTF files are also included.
+
+Note that the .sfd files are used by FontForge, an open source font
+editor application.
+
 # Kilroy1
 
 Kilroy1: This is [Roboto Serif](https://fonts.google.com/specimen/Roboto+Serif) with only Regular/Bold/Italic/BoldItalic forms
