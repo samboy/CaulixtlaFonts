@@ -15,6 +15,10 @@ The ones to use are:
 Note that the .sfd files are used by FontForge, an open source font
 editor application.
 
+In my experience, the hinted fonts actually look *worse* than the unhinted
+fonts; there are issues where the hinting can make capital letters smaller
+to the point they look like small caps. 
+
 # Kilroy1
 
 Kilroy1: This is [Roboto Serif](https://fonts.google.com/specimen/Roboto+Serif) with only Regular/Bold/Italic/BoldItalic forms
