@@ -11,6 +11,9 @@ The ones to use are:
   in order to minimize its size. The main web formats (notably woff2, and CSS
   with those WOFF2 fonts embedded) are supported, as well as some obsolete
   formats (WOFF and EOT).  TTF files are also included.
+* KilroyB: This is the one to use on the web if one needs more languages
+  supported besides English and Spanish; this has full CP-1252 (Western
+  Europe) support as well as Esperanto support.
 
 Note that the .sfd files are used by FontForge, an open source font
 editor application.
