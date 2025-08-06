@@ -1,6 +1,8 @@
 Styx in 1983 made a song called “Mr. Roboto” with the lyrics “Kilroy was
 here”. So this is my take on Roboto fonts.
 
+[Sample page for the font](https://samboy.github.io/CaulixtlaFonts/MiscFonts/Kilroy/index.html)
+
 The ones to use are:
 
 * KilroyC: This has both a tiny web version and a small desktop version.
