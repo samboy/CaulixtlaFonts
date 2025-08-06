@@ -3,17 +3,12 @@ here”. So this is my take on Roboto fonts.
 
 The ones to use are:
 
-* KilroyA: This is the one to use on the desktop. It’s the usual
-  regular/bold/italic/boldItalic for legacy word processor compatibility.
-  This is only in TTF format.
-* Kilroy8: This is the one to use on the web. This is Kilroy8 subsetted
-  to only have ASCII and a few extra characters (smart quotes, Spanish)
-  in order to minimize its size. The main web formats (notably woff2, and CSS
-  with those WOFF2 fonts embedded) are supported, as well as some obsolete
-  formats (WOFF and EOT).  TTF files are also included.
-* KilroyB: This is the one to use on the web if one needs more languages
-  supported besides English and Spanish; this has full CP-1252 (Western
-  Europe) support as well as Esperanto support.
+* KilroyC: This has both a tiny web version and a small desktop version.
+  While KilroyA supports more languages and has more symbols, I prefer the
+  italic “f” in KilroyC.
+* KilroyA: This is the one to use if more languages are needed than the ones
+  KilroyC supports. It’s the usual regular/bold/italic/boldItalic for 
+  legacy word processor compatibility.  This is only in TTF format.
 
 Note that the .sfd files are used by FontForge, an open source font
 editor application.
@@ -146,3 +141,10 @@ numbers.
 This is Kilroy8 with all of Roboto Serif’s symbols. Also, the → bug
 has been fixed.
 
+# KilroyB
+
+This is Kilroy8 with full CP-1252 and Esperanto support.
+
+# KilroyC
+
+This is Kilroy8/KilroyB with the italic “f” made an oblique.
