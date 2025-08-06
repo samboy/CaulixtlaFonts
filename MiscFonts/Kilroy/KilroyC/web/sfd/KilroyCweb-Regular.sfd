@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586430965
-ModificationTime: 1754481431
+ModificationTime: 1754483384
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 4
@@ -713,12 +713,12 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.008" "" "Roboto is a registered trademark of Google, Inc." "Commercial Type" "Greg Gazdowicz" "" "https://www.commercialtype.com/" "https://www.commercialtype.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-OtfFeatName: 'ss01' 1033 "E F with serif on crossbar"
-OtfFeatName: 'ss02' 1033 "alternate g"
-OtfFeatName: 'ss04' 1033 "f with heavy terminal"
-OtfFeatName: 'ss05' 1033 "alternate sterling"
-OtfFeatName: 'ss06' 1033 "alternate a"
 OtfFeatName: 'ss07' 1033 "African Eng"
+OtfFeatName: 'ss06' 1033 "alternate a"
+OtfFeatName: 'ss05' 1033 "alternate sterling"
+OtfFeatName: 'ss04' 1033 "f with heavy terminal"
+OtfFeatName: 'ss02' 1033 "alternate g"
+OtfFeatName: 'ss01' 1033 "E F with serif on crossbar"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -6206,8 +6206,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2B62
-Encoding: 11106 11106 133
+StartChar: arrowright
+Encoding: 8594 8594 133
 Width: 840
 Flags: W
 LayerCount: 2
