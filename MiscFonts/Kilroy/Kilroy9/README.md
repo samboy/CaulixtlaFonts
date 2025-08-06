@@ -5,3 +5,7 @@ the “I” and “l” in stock Roboto Serif are just as different from each
 other as, say “I” and “l” in Georgia, Noto Serif, Cambria, Constancia,
 or pretty much any serif typeface. That said, there is some value in 
 having “I” be even more distinct from “l”, so I will keep this work.
+
+In addition, the italic “f” is an oblique instead of a true italic ---
+I find the tail on italic “f” in Roboto serif a bit off putting.
+

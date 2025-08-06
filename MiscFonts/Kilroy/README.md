@@ -127,6 +127,9 @@ having “I” be even more distinct from “l”, so I will keep this work.
 
 (This is an experiment I didn’t like but had to try)
 
+In addition, the italic “f” is an oblique instead of a true italic ---
+I find the tail on italic “f” in Roboto serif a bit off putting.
+
 # KilroyA
 
 Subsetting: None (All Roboto Serif symbols included)
