@@ -6,5 +6,12 @@ at smaller font sizes, but the only way to improve things at this
 point is to either make the “1” sometimes taller than other numbers
 or to use hinting.
 
-The desktop version supports more symbols than the heavily subsetted
-web version, as well as bold and bold italic.
+The folders:
+
+* Desktop: This version has a full regular/italic/bold/boldItalic set
+  of fonts. It has support for all of Windows CP-1252, as well as
+  the Esperanto language and a handful of other symbols (→, ♥, etc.).
+* Web: This has support for English, Spanish, smart quotes, and a 
+  couple other symbols. There is no bold nor boldItalic; this is a
+  sized optimized version for putting on a private web page.
+
