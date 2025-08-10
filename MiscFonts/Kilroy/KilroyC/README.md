@@ -13,5 +13,11 @@ The folders:
   the Esperanto language and a handful of other symbols (→, ♥, etc.).
 * Web: This has support for English, Spanish, smart quotes, and a 
   couple other symbols. There is no bold nor boldItalic; this is a
-  sized optimized version for putting on a private web page.
+  sized optimized version for putting on a web page. Also, the
+  folder includes conversions of the font to a couple of obsolete web 
+  formats for older browers: WOFF as well as an EOT version for Internet 
+  Explorer 6, for those who want to live the web development issues of 
+  2006 all over again.
 
+Both versions have FontForge SFD files, TTF files for desktop use, and
+WOFF2 as well as CSS files for web use.
