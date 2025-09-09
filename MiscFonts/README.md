@@ -7,5 +7,7 @@
 
 * Kilroy: Roboto Serif static renditions.
 
+* VenusTerm: AnnaTerm with the ♥ symbol added
+
 * m7x14.fon: The bitmap “misc fixed” font included with X. For old low
   resolution displays.
