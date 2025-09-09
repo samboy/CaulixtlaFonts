@@ -150,3 +150,23 @@ This is Kilroy8 with full CP-1252 and Esperanto support.
 # KilroyC
 
 This is Kilroy8/KilroyB with the italic “f” made an oblique.
+Coverage is the same as KilroyB: CP-1252 (Western Europe), Esperanto,
+and a couple other symbols (e.g. ♥)
+
+# KilroyD 
+
+This is KilroyA with the italic “f” truncated. Coverage is the same
+as KilroyA, but a handful of obscure ligatures have been removed; the
+only ligatures with “f” in the italic font are “ff”, “fi”, “fl”, “ffi”, 
+and “ffl”.
+
+# KilroyE
+
+This is KilroyD which is subsetted in to two forms:
+
+* A form suitable for web pages with only support for English (ASCII),
+  Spanish, and a couple other symbols (→, ♥, etc.)
+* A “desktop” form with bold italic, full Windows CP-1252 support (i.e.
+  western European languages), Esperanto support, and a couple other
+  symbols (again ♥ etc.)
+
