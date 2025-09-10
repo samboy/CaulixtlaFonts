@@ -157,8 +157,8 @@ and a couple other symbols (e.g. ♥)
 
 This is KilroyA with the italic “f” truncated. Coverage is the same
 as KilroyA, but a handful of obscure ligatures have been removed; the
-only ligatures with “f” in the italic font are “ff”, “fi”, “fl”, “ffi”, 
-and “ffl”.
+only ligatures with “f” in the italic (and bold italic) font are “ff”, 
+“fi”, “fl”, “ffi”, and “ffl”.
 
 # KilroyE
 
