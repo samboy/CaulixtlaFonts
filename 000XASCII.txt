@@ -1,12 +1,12 @@
   0123456789abcdef
-0 .ÁÉÍÑÓÚÜ¡..•..«»
-1 —áéíñóúü¿‘’.→“”©
+0 .ÁÉÍÑÓÚÜ¡..—..«»
+1 •áéíñóúü¿‘’.→“”©
 2 .!"#$%&'()*+,-./
 3 0123456789:;<=>?
 4 @ABCDEFGHIJKLMNO
 5 PQRSTUVWXYZ[\]^_
 6 `abcdefghijklmno
-7 pqrstuvwxyz{|}~∞
+7 pqrstuvwxyz{|}~♥
 
 Non-printable chars (rendered as .)
 00 is Null (end of string)
@@ -19,7 +19,7 @@ Non-printable chars (rendered as .)
 
 Also:
 
-10 is em dash (—)
+0b is em dash (—)
 19 is left smart single quote (‘)
 1a is right smart quote (’)
 1d is left smart double quote (“)
