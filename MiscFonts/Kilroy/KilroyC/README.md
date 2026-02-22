@@ -1,3 +1,9 @@
+KilroyCweb-regular.sfd: This has special hinting used in the final
+version of KilroyCweb (the numbers got the TTFautohint treatment to
+deal with Windows buggy font rendering).  The italic, bold, and even
+boldItalic forms don’t have hinting, and are located in the
+`web/sfd/` folder.
+
 This is a version of the kilroy font where the italic “f” is an
 oblique, and where the non-bold non-italic “1” is a little taller
 so that year numbers like “1974” don’t have the “1” look shorter
