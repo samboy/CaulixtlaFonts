@@ -1,0 +1,17 @@
+cd /usr/share/fonts/X11
+mkdir venus
+bdftopcf VenusTerm-33.bdf > VenusTerm-33.pcf
+cp VenusTerm-33.pcf venus
+cd venus/
+mkfontdir
+cp ../misc/encodings.dir .
+fc-cache -fv
+
+Then, as user:
+
+xset +fp /usr/share/fonts/X11/venus/
+xset fp rehash
+
+Then:
+
+xterm -fn '-samiam-venusterm-book-r-normal--33-240-100-100-m-200-iso10646-1'
